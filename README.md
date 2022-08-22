@@ -3,7 +3,7 @@ Learn how to make an Android app that can classify images fast and with high acc
 
 We'll use Google's Teachable Machine to train a machine learning model on common objects, then deploy a TensorFlow Lite model in our Android app.
 
-Check out the [tutorial](https://youtu.be/jhGm4KDafKU).
+Mao ni ang [tutorial](https://youtu.be/jhGm4KDafKU).
 
 ## [Tutorial](https://youtu.be/jhGm4KDafKU)
 
